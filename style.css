@@ -1,0 +1,45 @@
+body {
+    background-color: grey;
+    padding: 100px;
+}
+
+.wrapper {
+    background-color: white;
+    padding: 5px;
+    padding-left: 25px;
+}
+
+h1, #title-name {
+    text-align: center;
+}
+
+.resume-headings {
+    margin-bottom: 0px;
+}
+
+.website {
+    display: inline;
+}
+
+.website, li {
+    margin-right: 10px;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+hr {
+    height: 3px;
+    color:black;
+    background-color: black;
+    margin: 0px;
+}
+
+.web-description {
+    margin-top: 0px;
+}
+
+#proj-title {
+    text-decoration: underline;
+}

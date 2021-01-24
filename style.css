@@ -17,6 +17,11 @@ h1, #title-name {
     margin-bottom: 0px;
 }
 
+#intro-box {
+    width: 500px;
+    height:150px;
+}
+
 .website {
     display: inline;
 }
@@ -37,9 +42,19 @@ hr {
 }
 
 .web-description {
-    margin-top: 0px;
+    margin-top: 5px;
+    margin-left: 20px;
 }
 
 #proj-title {
     text-decoration: underline;
+}
+
+.role {
+    margin-bottom: 0px;
+    font-style: italic;
+}
+
+.bullets {
+    margin-top: 0px;
 }

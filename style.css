@@ -58,3 +58,13 @@ hr {
 .bullets {
     margin-top: 0px;
 }
+
+.col-left {
+    display: inline;
+    width: 500px;
+}
+
+.col-right {
+    display: inline;
+    width: 50px;
+}
